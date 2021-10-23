@@ -8,5 +8,5 @@ const db=mysql.createPool({
     database:"username_login",
 });
 app.listen(3001,()=>{
-    console.log("The great Himanshu Shendare");
+    console.log("The great Shendare");
 });
